@@ -1,0 +1,23 @@
+{
+  "name": "rrr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithreynoldsworld/rrr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithreynoldsworld/rrr/issues"
+  },
+  "homepage": "https://github.com/keithreynoldsworld/rrr#readme",
+  "dependencies": {
+    "backbone": "^1.2.1",
+    "bootstrap": "^3.3.5"
+  }
+}
